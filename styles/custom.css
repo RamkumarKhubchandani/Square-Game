@@ -1,0 +1,6 @@
+.card {
+  height: 512px;
+  width: 512px;
+  background-color: #555;
+  position: absolute;
+}
